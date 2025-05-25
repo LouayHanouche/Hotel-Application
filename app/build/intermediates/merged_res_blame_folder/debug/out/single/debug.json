@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_activity_splash_screen.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_activity_register_screen.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/activity_register_screen.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_activity_login_screen.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/activity_login_screen.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/drawable_search_icon.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_activity_reserve_screen.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/activity_reserve_screen.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_activity_vendor_choose_option_screen.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/activity_vendor_choose_option_screen.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_activity_main_screen.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/activity_main_screen.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/drawable_plusbutton.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/drawable/plusbutton.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_hotel_registration_row.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/hotel_registration_row.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/drawable_curved_rectangle.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/drawable/curved_rectangle.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_activity_customer_choose_option_screen.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/activity_customer_choose_option_screen.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_hotel_row.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/hotel_row.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/drawable_next_icon.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/drawable/next_icon.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/drawable_add_photo_icon.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/drawable/add_photo_icon.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_activity_hotel_registration_screen.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/activity_hotel_registration_screen.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_activity_reservations_screen.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/activity_reservations_screen.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_activity_hotel_selection.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/activity_hotel_selection.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/drawable_back_button.png.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/drawable/back_button.png"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_hotel_selection_row.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/hotel_selection_row.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/drawable_main_screen_button_bg.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/drawable/main_screen_button_bg.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/drawable_backbutton.png.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/drawable/backbutton.png"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_activity_hotel_reservation_screen.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/activity_hotel_reservation_screen.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/drawable_login_screen_et_bg.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/drawable/login_screen_et_bg.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.Louay.vateldl2.app-merged_res-25:/layout_activity_registered_hotels_screen.xml.flat",
+        "source": "com.Louay.vateldl2.app-main-27:/layout/activity_registered_hotels_screen.xml"
+    }
+]
